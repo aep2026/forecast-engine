@@ -1,0 +1,10 @@
+{
+ "built_utc": "2026-10-17 16:44",
+ "last_actual_month": "2026-09-01",
+ "sources": [
+  "data/forecast/forecast_results_2026.xlsx",
+  "data/forecast/scenario_kit",
+  "data/challenge/challenge_pack.xlsx",
+  "data/raw/master_data.xlsx (strategic targets)"
+ ]
+}
